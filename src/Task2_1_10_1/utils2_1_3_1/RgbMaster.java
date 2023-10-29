@@ -1,7 +1,7 @@
-package task2_1_2_1_copy2_ObrabotkaFoto.utils2_1_3_1;
+package Task2_1_10_1.utils2_1_3_1;
 // лямбда начинается на мин 10 43
 
-import task2_1_2_1_copy2_ObrabotkaFoto.functions.ImageOperation;
+import Task2_1_10_1.functions.ImageOperation;
 
 import java.awt.image.BufferedImage;
 

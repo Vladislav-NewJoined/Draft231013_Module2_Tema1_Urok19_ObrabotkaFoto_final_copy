@@ -1,4 +1,4 @@
-package task2_1_2_1_copy2_ObrabotkaFoto;
+package Task2_1_10_1;
 
 import java.util.Random;
 

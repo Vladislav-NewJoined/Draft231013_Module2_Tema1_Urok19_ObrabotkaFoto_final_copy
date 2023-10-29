@@ -1,4 +1,4 @@
-package task2_1_2_1_copy2_ObrabotkaFoto.functions;
+package Task2_1_10_1.functions;
 
 public interface ImageOperation {
     float[] execute(float[] rgb);
